@@ -24,7 +24,7 @@ ul {
     min-height: 100dvh;
     display: flex;
     flex-direction: column;
-    background: #e5e5e5;
+    background: #ccc;
 }
 
 .nav {
@@ -60,5 +60,6 @@ h1 {
     flex-grow: 1;
     /* font-size: 6vw; */
     font-size: clamp(48px, 5vw, 72px);
+    color: cornflowerblue;
     /* margin: auto 0; */
 }
